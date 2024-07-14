@@ -1,0 +1,27 @@
+#communities {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    height: 75px;
+    width: 175px;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #signup-form {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 20px;
+    display: none;
+  }
+  
+  .hidden {
+    display: none;
+  }
